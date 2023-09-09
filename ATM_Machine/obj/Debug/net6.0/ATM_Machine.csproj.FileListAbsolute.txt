@@ -1,0 +1,14 @@
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\bin\Debug\net6.0\ATM_Machine.exe
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\bin\Debug\net6.0\ATM_Machine.deps.json
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\bin\Debug\net6.0\ATM_Machine.runtimeconfig.json
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\bin\Debug\net6.0\ATM_Machine.dll
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\bin\Debug\net6.0\ATM_Machine.pdb
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ATM_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ATM_Machine.AssemblyInfoInputs.cache
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ATM_Machine.AssemblyInfo.cs
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ATM_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ATM_Machine.dll
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\refint\ATM_Machine.dll
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ATM_Machine.pdb
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ATM_Machine.genruntimeconfig.cache
+C:\Users\Josia\source\repos\ATM_Machine\ATM_Machine\obj\Debug\net6.0\ref\ATM_Machine.dll
